@@ -40,3 +40,4 @@ your finished site in your browser. Go on, try it. This is one of the best ways 
 
 To further learn Hugo and learn more, read through the Hugo [documentation](http://hugo.spf13.com/overview/introduction)
 or browse around the files in this repository. Have fun!# berwickity.github.io
+# berwickity.github.io
