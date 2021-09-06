@@ -39,4 +39,4 @@ and rebuild the site immediately, *and* it will make these changes available at 
 your finished site in your browser. Go on, try it. This is one of the best ways to preview your site while working on it.
 
 To further learn Hugo and learn more, read through the Hugo [documentation](http://hugo.spf13.com/overview/introduction)
-or browse around the files in this repository. Have fun!
+or browse around the files in this repository. Have fun!# berwickity.github.io
